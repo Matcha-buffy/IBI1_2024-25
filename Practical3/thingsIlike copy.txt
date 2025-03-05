@@ -1,12 +1,10 @@
-one
-two
-three
-four
-five
-six
-like seven
-1
-1
-1
-1
-1
+I like reading books  
+I like playing basketball  
+I like listening to music  
+I like traveling to new places  
+I like trying different cuisines  
+I like watching movies  
+I like spending time with friends  
+I like learning new skills  
+I like hiking in nature  
+I like coding and solving problems  

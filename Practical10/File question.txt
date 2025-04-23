@@ -1,0 +1,3 @@
+Question: Are the trends of DALYs in China and the UK similar over time?
+Answer: line 35 --- line 46
+Discussion: The trends of DALYs in China and the UK are similar over time.

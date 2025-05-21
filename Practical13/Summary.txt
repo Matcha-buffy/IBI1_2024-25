@@ -1,0 +1,30 @@
+Results：
+The alignment results for the three sequence comparisons are as follows:
+Human - Mouse Alignment:
+Alignment Score: 1097
+Percentage of Identical Amino Acids: 90.09%
+Human - Random Alignment:
+Alignment Score: -223
+Percentage of Identical Amino Acids: 5.86%
+Mouse - Random Alignment:
+Alignment Score: -215
+Percentage of Identical Amino Acids: 6.31%
+
+Interpretation of Results：
+
+Human - Mouse Alignment:
+High Alignment Score: The score of 1097 indicates a high degree of similarity between the human and mouse SOD2 protein sequences.
+High Identity Percentage: 90.09% identical amino acids further confirms their evolutionary closeness.
+
+Human - Random Alignment:
+Low Alignment Score: The score of -223 suggests that the human SOD2 protein sequence has very little similarity to the randomly generated sequence.
+Low Identity Percentage: Only 5.86% of the amino acids are identical, indicating no significant evolutionary relationship.
+
+Mouse - Random Alignment:
+Low Alignment Score: The score of -215 indicates that the mouse SOD2 protein sequence also has very little similarity to the random sequence.
+Low Identity Percentage: 6.31% identical amino acids further supports the lack of similarity between the mouse sequence and the random sequence.
+
+Conclusion：
+Based on the alignment scores and the percentage of identical amino acids, we can conclude the following:
+The human and mouse SOD2 protein sequences are highly conserved and evolutionarily similar.
+The random sequences show no significant similarity to the real sequences, demonstrating that the alignment scores and identity percentages can effectively distinguish between evolutionarily related sequences and random sequences.
